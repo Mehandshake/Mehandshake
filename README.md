@@ -1,6 +1,6 @@
 # Hi, I'm ilnur 👋
 
-Full-stack & AI developer. I build web products end-to-end — from backend APIs and CMS sites to RAG pipelines and speech AI (ASR).
+Full-stack, mobile & AI developer. I build products end-to-end — from web backends and CMS sites to native/cross-platform mobile apps and AI systems (RAG, LLM, ASR).
 
 ## 🛠️ Tech stack
 
@@ -17,6 +17,12 @@ Full-stack & AI developer. I build web products end-to-end — from backend APIs
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **AI / ML**
 
