@@ -1,8 +1,13 @@
 # Hi, I'm ilnur 👋
 
-Full-stack, mobile & AI developer. I build products end-to-end — from web backends and CMS sites to native/cross-platform mobile apps and AI systems (RAG, LLM, ASR).
+Product person who ships. I own products end-to-end — strategy, roadmap and execution — and go hands-on across the stack (web, mobile, AI) whenever that's the fastest way to get something built.
+
+## 🎯 How I work
+
+I think in outcomes, not tickets: scoping, prioritizing, talking to users — then building it myself when that's what moves things forward. That means I can take a product from idea to launch without waiting on a bigger team.
 
 ## 🛠️ Tech stack
+The toolbox I execute with:
 
 **Backend & CMS**
 
@@ -33,9 +38,10 @@ Full-stack, mobile & AI developer. I build products end-to-end — from web back
 
 ## 🚀 Currently
 
-Building AI voice & speech (ASR) and LLM/RAG-powered products, alongside client web development on Laravel, Django and FastAPI.
+Driving AI voice/speech (ASR) and LLM/RAG products from concept to release, plus client web work on Laravel, Django and FastAPI.
 
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zagidullingg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilnur-zagidullin-13b164271)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/handshakee)
