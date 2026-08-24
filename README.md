@@ -36,6 +36,11 @@ The toolbox I execute with:
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
 ![ASR](https://img.shields.io/badge/ASR%20%2F%20Speech--to--Text-00B8A9?style=for-the-badge)
 
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ## 🚀 Currently
 
 Driving AI voice/speech (ASR) and LLM/RAG products from concept to release, plus client web work on Laravel, Django and FastAPI.
